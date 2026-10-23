@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Goutham! 👋
 
-<!--
-**Goutham-Sakthivel/Goutham-Sakthivel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.E. Computer Science and Engineering student
+💻 Aspiring Software Developer
+🐍 Currently strengthening my Python programming skills
+🤖 Interested in Artificial Intelligence, Machine Learning, and Generative AI
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Learning Python through coding exercises and consistent practice.
+* 🧠 Improving my problem-solving and programming fundamentals.
+* 🛠️ Interested in building practical software projects.
+* 🎯 Working towards becoming job-ready for an entry-level Software Developer role.
+* 📚 Exploring AI/ML and Generative AI as future learning goals.
+
+## 🧰 Skills & Learning
+
+* **Programming:** Python fundamentals
+* **Core concepts:** Problem Solving, Object-Oriented Programming fundamentals
+* **Currently exploring:** AI, Machine Learning, Generative AI
+
+## 📌 Goals
+
+* Build practical Python projects.
+* Learn SQL, Git, and Data Structures & Algorithms.
+* Contribute to open-source projects as my skills grow.
+* Develop strong software engineering fundamentals.
+
+## 🤝 Connect With Me
+
+* LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/goutham-s-dev/)
+
+---
+
+⭐ Thanks for visiting my profile!
